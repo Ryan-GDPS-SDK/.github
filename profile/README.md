@@ -23,4 +23,4 @@ it will create the entire **template**.
 ### What's next now?
 Next: open **Visual Studio**, select **Open a Folder** (or **Open a Local Folder** or something else), select the **Folder** you created with the command and write your code in **main.cpp** or something else!
 #### I'm in trouble!
-Join the discord server here: 
+Join the discord server here: [![Discord Logo](discord.png)Discord](https://discord.gg/6ghafwqjw6)
