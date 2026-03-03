@@ -1,4 +1,4 @@
-![Ryan GDPS SDK Banner](../Ryan%20GDPS%20Banner.svg)
+![Ryan GDPS SDK Banner](Ryan%20GDPS%20Banner.svg)
 
 # Ryan GDPS
 **Ryan GDPS** (Ryan GDPS SDK) is a powerful **framework** that you can create **mods** by installing the CLI.
